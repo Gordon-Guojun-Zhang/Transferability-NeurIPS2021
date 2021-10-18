@@ -1,6 +1,6 @@
 # Transferability for domain generalization
 
-The code is adapted from [the DomainBed suite](https://github.com/facebookresearch/DomainBed)
+This repo is for evaluating and improving transferability in domain generalization (NeurIPS 2021), based on our paper [Quantifying and Improving Transferability in Domain Generalization](https://arxiv.org/abs/2106.03632). The code is adapted from [the DomainBed suite](https://github.com/facebookresearch/DomainBed)
 
 * python version: 3.6
 * pytorch version: 1.7.1
@@ -63,3 +63,12 @@ We could evaluate the Transfer algorithm.
 ## License
 
 This source code is released under the MIT license, included [here](LICENSE).
+
+## Cite
+Comments are welcome! Please use the following bib if you use our code in your research:
+@article{zhang2021quantifying,
+      title={Quantifying and Improving Transferability in Domain Generalization}, 
+      author={Guojun Zhang and Han Zhao and Yaoliang Yu and Pascal Poupart},
+      year={2021},
+      journal={Advances in neural information processing systems},
+}
