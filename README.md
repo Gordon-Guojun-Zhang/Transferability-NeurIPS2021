@@ -71,6 +71,6 @@ Comments are welcome! Please use the following bib if you use our code in your r
       title={Quantifying and Improving Transferability in Domain Generalization}, 
       author={Guojun Zhang and Han Zhao and Yaoliang Yu and Pascal Poupart},
       year={2021},
-      journal={Advances in neural information processing systems},
+      journal={Advances in Neural Information Processing Systems},
 }
 ```
