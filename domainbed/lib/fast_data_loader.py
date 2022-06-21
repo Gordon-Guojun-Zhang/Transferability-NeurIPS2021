@@ -13,10 +13,6 @@ class _InfiniteSampler(Sampler):
             for batch in self.sampler:
                 yield batch
 
-#class replaceSubsetSampler(SubsetRandomSampler):
-    
-
-
 
 class InfiniteDataLoader:
     def __init__(self, dataset, weights, batch_size, num_workers):
