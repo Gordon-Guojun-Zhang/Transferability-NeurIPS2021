@@ -66,11 +66,13 @@ This source code is released under the MIT license, included [here](LICENSE).
 
 ## Citation
 Comments are welcome! Please use the following bib if you use our code in your research:
+
 ```
-@article{zhang2021quantifying,
-      title={Quantifying and Improving Transferability in Domain Generalization}, 
-      author={Guojun Zhang and Han Zhao and Yaoliang Yu and Pascal Poupart},
-      year={2021},
-      journal={Advances in Neural Information Processing Systems},
+@inproceedings{zhang2020newton,
+  title={Newton-type methods for minimax optimization},
+  author={Zhang, Guojun and Wu, Kaiwen and Poupart, Pascal and Yu, Yaoliang},
+  booktitle={ICML Workshop on Beyond first-order methods in ML systems},
+  year={2021},
+  url={https://arxiv.org/abs/2006.14592}
 }
 ```
